@@ -1,4 +1,4 @@
-Good example of MVVM pattern!!!
+EmployeeDirectory is a good example of MVVM pattern!!!
 
 Xamarin.Forms Samples
 =====================
