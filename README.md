@@ -1,3 +1,5 @@
+Good example of MVVM pattern!!!
+
 Xamarin.Forms Samples
 =====================
 
